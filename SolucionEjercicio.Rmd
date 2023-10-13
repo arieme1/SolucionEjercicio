@@ -58,4 +58,10 @@ commonanimals <- intersect(filas,filas1)
 
 print(commonanimals)
 ```
+#Apartado 5
 
+```{r}
+diffanimals <- setdiff(filas,filas1)
+print(diffanimals)
+```
+Se observa que hay cuatro animales que difieren de un conjunto de datos a otro. Estos cuatro animales, son mamíferos y comparten una característica en común, y es que habitan en regiones de clima frío.
