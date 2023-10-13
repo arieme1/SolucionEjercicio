@@ -51,3 +51,11 @@ print(filas1)
 print(columnas1)
 ```
 
+#Apartado 4
+
+```{r}
+commonanimals <- intersect(filas,filas1)
+
+print(commonanimals)
+```
+
