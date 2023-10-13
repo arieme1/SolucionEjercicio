@@ -37,3 +37,17 @@ tail(Animals2)
 ```
 
 
+
+
+#Apartado 3
+```{r}
+filas <- rownames(mammals)
+columnas <- colnames(mammals)
+filas1 <- rownames(Animals2)
+columnas1 <- colnames(Animals2)
+print(filas)
+print(columnas)
+print(filas1)
+print(columnas1)
+```
+
