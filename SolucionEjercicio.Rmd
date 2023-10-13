@@ -18,6 +18,22 @@ print(mammals)
 str(Animals2)
 str(mammals)
 
-
 ```
+
+
+
+#Apartado 2
+
+Se van a aplicar una serie de funciones a los datasets para observar las características de estos mismos
+
+```{r}
+dim(mammals)
+head(mammals)
+tail(mammals)
+
+dim(Animals2)
+head(Animals2)
+tail(Animals2)
+```
+
 
