@@ -65,3 +65,10 @@ diffanimals <- setdiff(filas,filas1)
 print(diffanimals)
 ```
 Se observa que hay cuatro animales que difieren de un conjunto de datos a otro. Estos cuatro animales, son mamíferos y comparten una característica en común, y es que habitan en regiones de clima frío.
+
+
+
+#Apartado 6
+
+La principal diferencia entre estos 4 animales es que son de distintas especies a pesar de vivir en climas fríos cada uno pertenece a una especie distinta, tenemos un mono, un zorro, una ardilla y  una rata.
+
